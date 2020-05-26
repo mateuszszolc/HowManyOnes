@@ -1,0 +1,7 @@
+C:\Users\mateu\Documents\Visual Studio 2017\Projects\HowOnes\HowOnes\bin\Debug\HowOnes.exe.config
+C:\Users\mateu\Documents\Visual Studio 2017\Projects\HowOnes\HowOnes\bin\Debug\HowOnes.exe
+C:\Users\mateu\Documents\Visual Studio 2017\Projects\HowOnes\HowOnes\bin\Debug\HowOnes.pdb
+C:\Users\mateu\Documents\Visual Studio 2017\Projects\HowOnes\HowOnes\obj\Debug\HowOnes.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Visual Studio 2017\Projects\HowOnes\HowOnes\obj\Debug\HowOnes.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Visual Studio 2017\Projects\HowOnes\HowOnes\obj\Debug\HowOnes.exe
+C:\Users\mateu\Documents\Visual Studio 2017\Projects\HowOnes\HowOnes\obj\Debug\HowOnes.pdb
